@@ -1,0 +1,7 @@
+venv
+.env
+__pycache__
+.idea
+mypy_cache
+crypto.log
+trash.py
